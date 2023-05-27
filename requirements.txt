@@ -33,7 +33,6 @@ pytz==2023.3
 PyYAML==6.0
 pyyaml_env_tag==0.1
 six==1.16.0
-TA-Lib==0.4.26
 tenacity==8.2.2
 tinkoff==0.1.1
 tinkoff-investments==0.2.0b27
